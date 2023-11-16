@@ -1,16 +1,16 @@
 # The Artifficial Intelligence Free & Open Source Stack (AI FOSS Stack)
 
-The objective of the AI FOSS Stack is to serve as a foundational building block to build apps which can leverage pre-preained large language models (LLMs) which are open source and can run on low specification harware.
+The objective of the AI FOSS Stack is to serve as a foundational building block to build apps that leverage pre-trained large language models (LLMs) which are open source and can run on low-specification hardware.
 
 This solution is developed in the context of a collaboration between Fordham University and the UN Office of Information and Communications Technology. Read more: http://ideas.unite.un.org/fordham 
 
-The team includes: Hannah, Remi, Peter, Sophie, Robert, and more.
+The team includes Hannah, Remi, Peter, Sophie, Robert, and more.
 
 # Installation (For Linux or Mac):
 
 ## Language Model
 * Install a local LLM. Go to Ollama.ai to install and run your local LLM.
-* Download the zephyr model using Ollama. From a terminal window type "$ollama pull zephyr". If your computer becomes slow you can try using a LLM with a smaller footprint such as orca-mini using "$ollama pull orca-mini"
+* Download the zephyr model using Ollama. From a terminal window type "$ollama pull zephyr". If your computer becomes slow you can try using an LLM with a smaller footprint such as orca-mini using "$ollama pull orca-mini"
 
 ## Obtain the app code
 * $git clone http://this_Repo_URL
@@ -28,6 +28,7 @@ The team includes: Hannah, Remi, Peter, Sophie, Robert, and more.
 ## Run the app
 * $streamlit run proto_aifoss.py --server.port 8504
 * Your app will be running at http://localhost:8504
+* NOTE: the first time you open the app it might take a few minutes to finish loading because some downloads happn on the background. After this initial download you can run the app offline. 
 
 
 ## Current Features
