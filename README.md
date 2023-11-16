@@ -28,7 +28,7 @@ The team includes Hannah, Remi, Peter, Sophie, Robert, and more.
 ## Run the app
 * $streamlit run proto_aifoss.py --server.port 8504
 * Your app will be running at http://localhost:8504
-* NOTE: the first time you open the app it might take a few minutes to finish loading because some downloads happn on the background. After this initial download you can run the app offline. 
+* NOTE: the first time you open the app it might take a few minutes to finish loading because some downloads happen in the background. After this initial download you can run the app offline. 
 
 
 ## Current Features
