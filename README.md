@@ -4,7 +4,7 @@ The objective of the AI FOSS Stack is to serve as a foundational building block 
 
 This solution is developed in the context of a collaboration between Fordham University and the UN Office of Information and Communications Technology. Read more: http://ideas.unite.un.org/fordham 
 
-The team includes Hannah, Remi, Peter, Sophie, Robert, ect.
+The team includes Hannah, Remi, Peter, Sophie, Robert, and more...
 
 # Installation (For Linux or Mac):
 
